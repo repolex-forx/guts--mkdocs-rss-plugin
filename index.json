@@ -1,0 +1,11 @@
+{
+  "org": "guts",
+  "repo": "mkdocs-rss-plugin",
+  "versions": [
+    {
+      "commit": "6d3fc84c4307890cf07e4163d18ef550374cc892",
+      "tag": "1.19.0",
+      "parsed_at": "2026-11-23T04:58:14.931286+00:00"
+    }
+  ]
+}
